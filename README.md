@@ -9,7 +9,7 @@ This project implements a concurrent event reservation system using POSIX thread
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/vinyl5200/Systems-Lab.git
+git clone https://github.com/Ayushagarwal32/Systems-Lab.git
 cd Systems-Lab
 ```
 ###Run the Code
